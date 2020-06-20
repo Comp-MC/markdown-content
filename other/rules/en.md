@@ -26,6 +26,7 @@
 
 7. The senior staff reserve the right to enforce punishments on players at any given time, of any level of severity.
 
+8. All players currently running Windows MUST have Windows Defender enabled or any other antivirus/antimalware substitute whilst playing the event and during screenshare
 
 ### **Consequences: Unfair Advantages:**
 
