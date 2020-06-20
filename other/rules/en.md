@@ -1,6 +1,5 @@
 # **CompMC Rules**
-*Last updated: June 7th, 2020*
-
+*Last updated: June 19th, 2020*
 
 1. Maintain respectful and friendly behavior across all of our services (discord, website, and social media). Keep everything rated Y at a minimum, PG at the maximum as we want to have an environment for all ages. Toxicity will not be tolerated under any circumstance. Use common sense. Anything inappropriate (images, spam, media, or other content) on our discord is strictly prohibited. Attempting to privately target users with such content will result in a permanent removal from all services.
 
@@ -31,6 +30,7 @@
 ### **Consequences: Unfair Advantages:**
 
 1. We distinguish among three types of unfair advantages: Movement, Combat, Information & Miscellaneous.
+
 	1. Movement: any tool which modifies vanilla movement mechanics (examples: flying, Speed, Glide, Spider, B-Hop, ToggleSneak, NoSlowDown, Dolphin, Blink)
 
 	2. Information & Miscellaneous: any tool which provides more information to the user on the player environment than is available to vanilla users, or is a tool that does not fall under either the Movement or Combat categories (examples: radar, X-Ray, AutoBuild, Regen, AutoTool)

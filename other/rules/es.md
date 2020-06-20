@@ -1,5 +1,5 @@
 # **Reglas de CompMC**
-*Última actualización: 7 de junio de 2020*
+*Última actualización: 19 de junio de 2020*
 
 1. Mantener un comportamiento respetuoso y amigable en todos nuestros servicios (Discord, sitio web y redes sociales). Mantenga todo lo calificado como Y como mínimo, PG como máximo, ya que queremos tener un entorno para todas las edades. La toxicidad no será tolerada bajo ninguna circunstancia. Usa el sentido común. Cualquier cosa inapropiada (imágenes, spam, medios u otro contenido) en nuestra Discord está estrictamente prohibida. Intentar apuntar de forma privada a los usuarios con dicho contenido resultará en una eliminación permanente de todos los servicios.
 
