@@ -1,5 +1,7 @@
 # Policies
 
+*Last updated: May 9th, 2022*
+
 ## REFUND POLICY:
 All ticket sales are final and refunds are only available to those that include our no-questions-asked Ticket Protection at checkout when purchasing tickets. In the event Minefest is canceled without reschedule, you will be refunded for your ticket purchase regardless of Ticket Protection status. Refund requests without the Ticket Protection add-on are unconditionally denied.
 
