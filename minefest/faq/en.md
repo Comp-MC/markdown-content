@@ -10,7 +10,7 @@ If you purchased the Ticket Protection add-on at checkout, then you are guarante
 
 ## Are there any age restrictions?
 
-No! MINEFEST is open to all ages! In fact, children 2 and under can enter for FREE without a badge, provided they are accompanied by an adult.
+No! MINEFEST is open to all ages! In fact, children 3 and under can enter for FREE without a badge, provided they are accompanied by an adult.
 
 ## I am a small YouTuber looking to grow my channel, can I be a part of the show?
 
@@ -27,3 +27,7 @@ Short answer: no! All of our attractions are included with a general admission t
 ## I’m desperate to meet the YouTubers; is meeting them guaranteed?
 
 Unfortunately, no. Our YouTubers are extremely popular during the shows and are often accompanied with excessively long wait times that some attendees are not willing to wait. We recommend getting to the show as early as possible and hitting your favorite attractions right away!
+
+## Do You Offer Military Discounts?
+
+Occasionally we have promotional tickets for Eligible veterans, active-duty military personnel, first responders and their families... please visit Veteran Tickets Foundation at www.vettix.org or First Tickets Foundation at www.1sttix.org to check availability (You must use an existing or create an account to request tickets).
